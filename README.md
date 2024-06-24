@@ -18,3 +18,9 @@ Relevant insights for the dataset:<br>
 -What are the characteristics of SmartWay vehicles? Have they changed over time (mpg, gas rating)?<br>
 
 <b>REPOSITORY FILES:</b> <br> 
+1-Analysis_1_Understanding data with Pandas<br>
+2-Analysis 2_Organizing columns and column labels<br>
+3-Analysis_3_Filtering, removing nulls and duplicates<br>
+4-Analysis_4_Data type adjustment<br>
+5-Analysis_5_Exploring data with visualization<br>
+6-Analysis_6_Questions and conclusions<br>
