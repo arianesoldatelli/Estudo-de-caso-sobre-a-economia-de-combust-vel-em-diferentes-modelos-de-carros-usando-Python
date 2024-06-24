@@ -6,7 +6,7 @@
 Ao longo do caminho, foram exploradas novas formas de manipular dados com Pandas e NumPy, assim como ferramentas de visualização como Matplotlib.
 
 Reflexões relevantes para o conjunto de dados:<br> 
--Mais ou menos modelos estão usando fontes alternativas de combustível? Se mais, quanto mais?<br> 
+-Mais modelos estão usando fontes alternativas de combustível? Se sim, quanto mais?<br> 
 -Quais são as características dos veículos SmartWay? Elas mudaram ao longo do tempo (mpg, classificação de gases)?<br> 
 
 <b>ENGLISH:</b> Using Python to investigate a dataset on fuel economy across different car models, going through the entire data analysis process.<br>
@@ -14,5 +14,5 @@ Reflexões relevantes para o conjunto de dados:<br>
 Along the way, new ways of manipulating data with Pandas and NumPy were explored, as well as visualization tools like Matplotlib.
 
 Relevant insights for the dataset:<br> 
--Are more or fewer models using alternative fuel sources? If more, how much more?<br>
+-Are more models using alternative fuel sources? If so, how many more?<br>
 -What are the characteristics of SmartWay vehicles? Have they changed over time (mpg, gas rating)?<br>
