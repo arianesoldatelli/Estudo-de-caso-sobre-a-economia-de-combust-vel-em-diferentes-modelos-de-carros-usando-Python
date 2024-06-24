@@ -16,3 +16,5 @@ Along the way, new ways of manipulating data with Pandas and NumPy were explored
 Relevant insights for the dataset:<br> 
 -Are more models using alternative fuel sources? If so, how many more?<br>
 -What are the characteristics of SmartWay vehicles? Have they changed over time (mpg, gas rating)?<br>
+
+<b>REPOSITORY FILES:</b> <br> 
